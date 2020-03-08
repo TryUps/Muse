@@ -1,0 +1,31 @@
+{
+  "name": "muse",
+  "version": "1.0.0",
+  "description": "Muse Music Player",
+  "main": "muse.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TryUps/Muse.git"
+  },
+  "keywords": [
+    "Muse",
+    "Music",
+    "player"
+  ],
+  "author": "TryUps Inc. (Arilson B.)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/TryUps/Muse/issues"
+  },
+  "homepage": "https://github.com/TryUps/Muse#readme",
+  "devDependencies": {
+    "electron-nightly": "^10.0.0-nightly.20200305"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
