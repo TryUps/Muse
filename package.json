@@ -26,6 +26,6 @@
     "electron-nightly": "^10.0.0-nightly.20200305"
   },
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
